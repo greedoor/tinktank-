@@ -1,2 +1,2 @@
-# tinktank-
+# tinktank
 our tsyp  project
